@@ -1,0 +1,37 @@
+networks:
+  dockerpruebanet:
+    driver: bridge
+services:
+  conexionbbdd:
+    build:
+      context: C:\Projects\LaboratorioDev\AspNetCore_Docker
+      dockerfile: Dockerfile
+    depends_on:
+    - imagen_postgre
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DB_CONNECTION_STRING: host=imagen_postgre;port=5432;database=docker;username=docker;password=docker
+    image: conexionbbdd
+    networks:
+      dockerpruebanet: {}
+    ports:
+    - published: 8000
+      target: 80
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\AlvaroCaparrosCarden\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\AlvaroCaparrosCarden\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  imagen_postgre:
+    environment:
+      POSTGRES_DB: docker
+      POSTGRES_PASSWORD: docker
+      POSTGRES_USER: docker
+    image: cacharreos2020/docker_postgresql:latest
+    networks:
+      dockerpruebanet: {}
+    ports:
+    - published: 8080
+      target: 5432
+version: '3.4'

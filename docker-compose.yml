@@ -1,0 +1,32 @@
+version: '3.4'
+
+networks:
+  dockerpruebanet:
+    driver: bridge
+
+services:
+  conexionbbdd:
+    image: ${DOCKER_REGISTRY-}conexionbbdd
+    depends_on:
+        - "imagen_postgre"
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+        - "8000:80"
+    environment:
+        DB_CONNECTION_STRING: "host=imagen_postgre;port=5432;database=docker;username=docker;password=docker"
+    networks:
+        - dockerpruebanet
+
+
+  imagen_postgre:
+    image: cacharreos2020/docker_postgresql:latest
+    ports:
+        - "8080:5432"
+    environment:
+     POSTGRES_USER: "docker"
+     POSTGRES_PASSWORD: "docker"
+     POSTGRES_DB: "docker"
+    networks:
+        - dockerpruebanet
