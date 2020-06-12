@@ -4,7 +4,7 @@ networks:
 services:
   conexionbbdd:
     build:
-      context: C:\Projects\LaboratorioDev\AspNetCore_Docker
+      context: C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker
       dockerfile: Dockerfile
     depends_on:
     - imagen_postgre
@@ -16,7 +16,7 @@ services:
     networks:
       dockerpruebanet: {}
     ports:
-    - published: 8000
+    - published: 8081
       target: 80
     - target: 80
     - target: 443

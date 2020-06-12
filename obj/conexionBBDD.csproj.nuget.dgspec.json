@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\conexionBBDD.csproj": {}
+    "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\conexionBBDD.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\conexionBBDD.csproj": {
+    "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\conexionBBDD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\conexionBBDD.csproj",
+        "projectUniqueName": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\conexionBBDD.csproj",
         "projectName": "conexionBBDD",
-        "projectPath": "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\conexionBBDD.csproj",
+        "projectPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\conexionBBDD.csproj",
         "packagesPath": "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\obj\\",
+        "outputPath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AlvaroCaparrosCarden\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

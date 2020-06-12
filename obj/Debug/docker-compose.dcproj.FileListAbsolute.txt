@@ -76,3 +76,29 @@ C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\prueba_conexion_
 C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\prueba_conexion_backup\conexionBBDD\obj\Debug\docker-compose.dcprojAssemblyReference.cache
 C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\prueba_conexion_backup\conexionBBDD\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Users\FranciscoBallesteros\Desktop\Proyectos\pruebas_locales\prueba_conexion_backup\conexionBBDD\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\appsettings.Development.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\appsettings.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Properties\launchSettings.json
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\conexionBBDD.Views.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\conexionBBDD.Views.pdb
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\conexionBBDD.exe
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\conexionBBDD.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\Npgsql.dll
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\bin\Debug\conexionBBDD.pdb
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\AlvaroCaparrosCarden\Documents\Archivos de proyectos\AspNetCore_Docker\obj\Debug\docker-compose.dcproj.CopyComplete

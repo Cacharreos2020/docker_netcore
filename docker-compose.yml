@@ -13,7 +13,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-        - "8000:80"
+        - "8081:80"
     environment:
         DB_CONNECTION_STRING: "host=imagen_postgre;port=5432;database=docker;username=docker;password=docker"
     networks:

@@ -61,7 +61,7 @@ namespace conexionBBDD.Properties {
         }
         
         /// <summary>
-        ///   Busca una cadena traducida similar a https://localhost:44369/WorkerFile/GetFile.
+        ///   Busca una cadena traducida similar a https://localhost:44321/WorkerFile/GetFile.
         /// </summary>
         internal static string ApiRoute {
             get {

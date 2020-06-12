@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZcY0xcQ6yPMZ7EB6rI0jWcLtSXX2syv1eAkPmSvt4z5NVmY9lVjFZfYGE0glND6ek4yl15sil1n+8hNhha7MMg==",
+  "dgSpecHash": "L0ZrYKUQTJNVvLip08vjqX06o7UelOUAkWyz78atD2/KrjAcB9jE2ZrDozH67EljjyxE/KbYLlyo4aFCN8Dpxw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\LaboratorioDev\\AspNetCore_Docker\\conexionBBDD.csproj",
+  "projectFilePath": "C:\\Users\\AlvaroCaparrosCarden\\Documents\\Archivos de proyectos\\AspNetCore_Docker\\conexionBBDD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\AlvaroCaparrosCarden\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
